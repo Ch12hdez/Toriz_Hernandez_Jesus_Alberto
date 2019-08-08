@@ -11,7 +11,7 @@ public class ChangeScene1 : MonoBehaviour
         //Codigo utilizado para cambiar de una escena a otra. 
         if (other.gameObject.tag == "Player")
         {
-            SceneManager.LoadScene("Nivel2");
+            SceneManager.LoadScene("Nivel 2");
         }
     }
 }

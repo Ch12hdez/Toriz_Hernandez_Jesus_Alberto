@@ -12,6 +12,12 @@ EditorBuildSettings:
     path: Assets/Nivel 1.unity
     guid: 86875ec6346206245b0d31d0b3784993
   - enabled: 1
-    path: Assets/Nivel 2.unity
-    guid: 6e71185000199954c93a5a4b65785cfa
+    path: Assets/Normal.unity
+    guid: 39feac03797f71e47b7f1eb16c0b258c
+  - enabled: 1
+    path: Assets/Hard.unity
+    guid: 457213b2c0b67664882f2e448e40c94f
+  - enabled: 1
+    path: Assets/PantallaFinal.unity
+    guid: a4efb05636c2e104ab7de191d64a9a8c
   m_configObjects: {}

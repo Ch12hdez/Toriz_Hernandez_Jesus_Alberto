@@ -7015,7 +7015,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84c2916e5b0d25f4db0bb4dccf2f9c1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Velocidad: 800
+  Velocidad: 500
   jumpHight: 0
 --- !u!54 &737658402
 Rigidbody:

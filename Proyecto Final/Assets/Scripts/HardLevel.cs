@@ -8,9 +8,10 @@ public class HardLevel : MonoBehaviour
 
         public void PlayGame()
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 3);
-        }
-
-      
-
+        //Codigo utilizado para que al ser activado por el jugador, lo transporte a la escena correspondiente (Hard)
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 3);
     }
+
+
+
+}

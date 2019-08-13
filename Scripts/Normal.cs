@@ -8,7 +8,7 @@ public class Normal : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        //Codigo utilizado para cambiar de una escena a otra. 
+        //Codigo utilizado para que, cuando el jugador entre en contacto con el, automaticamente lo regrese al punto de inicio del nivel. 
         if (other.gameObject.tag == "Player")
         {
             SceneManager.LoadScene("Normal");

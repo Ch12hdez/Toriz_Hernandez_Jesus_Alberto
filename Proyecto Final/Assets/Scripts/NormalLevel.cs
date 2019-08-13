@@ -8,7 +8,8 @@ public class NormalLevel : MonoBehaviour
 
         public void PlayGame()
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+        //Codigo utilizado para que al ser activado por el jugador, lo transporte a la escena correspondiente (Normal)
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
         }
 
         

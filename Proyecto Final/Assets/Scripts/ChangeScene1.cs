@@ -8,10 +8,10 @@ public class ChangeScene1 : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        //Codigo utilizado que al entrar en contacto el jugador con el objeto correspondiente, mandara al jugador a la pantalla de fin de juego, significando que lo a finalizado 
-        if (other.gameObject.tag == "Player")
+        //Si al colisionar al player con un objeto que tenga el Tag Puerta0 entonces me cargara la escena que lleve por nombre Nivel1. 
+        if (other.gameObject.tag == "Puerta0")
         {
-            SceneManager.LoadScene("PantallaFinal");
+            SceneManager.LoadScene("Nivel1");
         }
     }
 }

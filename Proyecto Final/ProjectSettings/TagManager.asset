@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Puerta0
+  - Puerta1
+  - Puerta2
+  - Puerta3
   layers:
   - Default
   - TransparentFX

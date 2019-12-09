@@ -891,7 +891,7 @@ GameObject:
   - component: {fileID: 104157191}
   m_Layer: 0
   m_Name: Cube (42)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -956,7 +956,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 57b74c91e0395c1459d4831f7e7abaad, type: 2}
+  - {fileID: 2100000, guid: ce906d2c4690b9b4abe6527e590eaeec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1078,7 +1078,7 @@ GameObject:
   - component: {fileID: 168935656}
   m_Layer: 0
   m_Name: Cube (121)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1186,7 +1186,7 @@ GameObject:
   - component: {fileID: 178379546}
   m_Layer: 0
   m_Name: Cube (26)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1251,7 +1251,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 57b74c91e0395c1459d4831f7e7abaad, type: 2}
+  - {fileID: 2100000, guid: ce906d2c4690b9b4abe6527e590eaeec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1294,7 +1294,7 @@ GameObject:
   - component: {fileID: 204357108}
   m_Layer: 0
   m_Name: Cube (80)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1510,7 +1510,7 @@ GameObject:
   - component: {fileID: 214873704}
   m_Layer: 0
   m_Name: Cube (1)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1834,7 +1834,7 @@ GameObject:
   - component: {fileID: 233231564}
   m_Layer: 0
   m_Name: Cube (49)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2454,7 +2454,7 @@ GameObject:
   - component: {fileID: 255507997}
   m_Layer: 0
   m_Name: Cube (11)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2562,7 +2562,7 @@ GameObject:
   - component: {fileID: 285860482}
   m_Layer: 0
   m_Name: Cube (82)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3102,7 +3102,7 @@ GameObject:
   - component: {fileID: 347719482}
   m_Layer: 0
   m_Name: Cube
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3137,7 +3137,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 57b74c91e0395c1459d4831f7e7abaad, type: 2}
+  - {fileID: 2100000, guid: ce906d2c4690b9b4abe6527e590eaeec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3210,7 +3210,7 @@ GameObject:
   - component: {fileID: 354394858}
   m_Layer: 0
   m_Name: Cube (136)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3318,7 +3318,7 @@ GameObject:
   - component: {fileID: 366472951}
   m_Layer: 0
   m_Name: Cube (125)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3750,7 +3750,7 @@ GameObject:
   - component: {fileID: 420231766}
   m_Layer: 0
   m_Name: Cube (128)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3998,7 +3998,7 @@ GameObject:
   - component: {fileID: 452772168}
   m_Layer: 0
   m_Name: Cube (43)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4106,7 +4106,7 @@ GameObject:
   - component: {fileID: 452813309}
   m_Layer: 0
   m_Name: Cube (123)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4970,7 +4970,7 @@ GameObject:
   - component: {fileID: 502502234}
   m_Layer: 0
   m_Name: Cube (120)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5618,7 +5618,7 @@ GameObject:
   - component: {fileID: 596994631}
   m_Layer: 0
   m_Name: Cube (5)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5669,7 +5669,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 57b74c91e0395c1459d4831f7e7abaad, type: 2}
+  - {fileID: 2100000, guid: ce906d2c4690b9b4abe6527e590eaeec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5726,7 +5726,7 @@ GameObject:
   - component: {fileID: 612909797}
   m_Layer: 0
   m_Name: Cube (4)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5777,7 +5777,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 57b74c91e0395c1459d4831f7e7abaad, type: 2}
+  - {fileID: 2100000, guid: ce906d2c4690b9b4abe6527e590eaeec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -6482,7 +6482,7 @@ GameObject:
   - component: {fileID: 725715416}
   m_Layer: 0
   m_Name: Cube (116)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6590,7 +6590,7 @@ GameObject:
   - component: {fileID: 726512693}
   m_Layer: 0
   m_Name: Cube (21)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6655,7 +6655,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 57b74c91e0395c1459d4831f7e7abaad, type: 2}
+  - {fileID: 2100000, guid: ce906d2c4690b9b4abe6527e590eaeec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -7224,7 +7224,7 @@ GameObject:
   - component: {fileID: 801536107}
   m_Layer: 0
   m_Name: Cube (12)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7289,7 +7289,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 57b74c91e0395c1459d4831f7e7abaad, type: 2}
+  - {fileID: 2100000, guid: ce906d2c4690b9b4abe6527e590eaeec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -8063,7 +8063,7 @@ GameObject:
   - component: {fileID: 936356843}
   m_Layer: 0
   m_Name: Cube (84)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8279,7 +8279,7 @@ GameObject:
   - component: {fileID: 984078262}
   m_Layer: 0
   m_Name: Cube (96)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8790,7 +8790,7 @@ GameObject:
   - component: {fileID: 1070214230}
   m_Layer: 0
   m_Name: Cube (2)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8898,7 +8898,7 @@ GameObject:
   - component: {fileID: 1075906597}
   m_Layer: 0
   m_Name: Cube (91)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9114,7 +9114,7 @@ GameObject:
   - component: {fileID: 1092030285}
   m_Layer: 0
   m_Name: Cube (32)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9179,7 +9179,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 57b74c91e0395c1459d4831f7e7abaad, type: 2}
+  - {fileID: 2100000, guid: ce906d2c4690b9b4abe6527e590eaeec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -10489,7 +10489,7 @@ GameObject:
   - component: {fileID: 1188921460}
   m_Layer: 0
   m_Name: Cube (18)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10554,7 +10554,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 57b74c91e0395c1459d4831f7e7abaad, type: 2}
+  - {fileID: 2100000, guid: ce906d2c4690b9b4abe6527e590eaeec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -10705,7 +10705,7 @@ GameObject:
   - component: {fileID: 1208861272}
   m_Layer: 0
   m_Name: Cube (15)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10770,7 +10770,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 57b74c91e0395c1459d4831f7e7abaad, type: 2}
+  - {fileID: 2100000, guid: ce906d2c4690b9b4abe6527e590eaeec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -11137,7 +11137,7 @@ GameObject:
   - component: {fileID: 1368891668}
   m_Layer: 0
   m_Name: Cube (76)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11393,7 +11393,7 @@ GameObject:
   - component: {fileID: 1399260989}
   m_Layer: 0
   m_Name: Cube (55)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11609,7 +11609,7 @@ GameObject:
   - component: {fileID: 1423388792}
   m_Layer: 0
   m_Name: Cube (101)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12041,7 +12041,7 @@ GameObject:
   - component: {fileID: 1464800178}
   m_Layer: 0
   m_Name: Cube (127)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12365,7 +12365,7 @@ GameObject:
   - component: {fileID: 1482511619}
   m_Layer: 0
   m_Name: Cube (34)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12430,7 +12430,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 57b74c91e0395c1459d4831f7e7abaad, type: 2}
+  - {fileID: 2100000, guid: ce906d2c4690b9b4abe6527e590eaeec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -12581,7 +12581,7 @@ GameObject:
   - component: {fileID: 1491139478}
   m_Layer: 0
   m_Name: Cube (6)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12632,7 +12632,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 57b74c91e0395c1459d4831f7e7abaad, type: 2}
+  - {fileID: 2100000, guid: ce906d2c4690b9b4abe6527e590eaeec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -12876,7 +12876,7 @@ GameObject:
   - component: {fileID: 1518166958}
   m_Layer: 0
   m_Name: Cube (105)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13404,7 +13404,7 @@ GameObject:
   - component: {fileID: 1559272692}
   m_Layer: 0
   m_Name: Cube (98)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14546,7 +14546,7 @@ GameObject:
   - component: {fileID: 1692213316}
   m_Layer: 0
   m_Name: Cube (10)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14654,7 +14654,7 @@ GameObject:
   - component: {fileID: 1693651861}
   m_Layer: 0
   m_Name: Cube (70)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15730,7 +15730,7 @@ GameObject:
   - component: {fileID: 1816315518}
   m_Layer: 0
   m_Name: Cube (73)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16209,7 +16209,7 @@ GameObject:
   - component: {fileID: 1889768569}
   m_Layer: 0
   m_Name: Cube (114)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16317,7 +16317,7 @@ GameObject:
   - component: {fileID: 1927242072}
   m_Layer: 0
   m_Name: Cube (29)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16382,7 +16382,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 57b74c91e0395c1459d4831f7e7abaad, type: 2}
+  - {fileID: 2100000, guid: ce906d2c4690b9b4abe6527e590eaeec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -16425,7 +16425,7 @@ GameObject:
   - component: {fileID: 1944653920}
   m_Layer: 0
   m_Name: Cube (79)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16533,7 +16533,7 @@ GameObject:
   - component: {fileID: 1961937555}
   m_Layer: 0
   m_Name: Cube (50)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17073,7 +17073,7 @@ GameObject:
   - component: {fileID: 1997087323}
   m_Layer: 0
   m_Name: Cube (58)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17181,7 +17181,7 @@ GameObject:
   - component: {fileID: 2002612670}
   m_Layer: 0
   m_Name: Cube (38)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17246,7 +17246,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 57b74c91e0395c1459d4831f7e7abaad, type: 2}
+  - {fileID: 2100000, guid: ce906d2c4690b9b4abe6527e590eaeec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -17289,7 +17289,7 @@ GameObject:
   - component: {fileID: 2006662764}
   m_Layer: 0
   m_Name: Cube (63)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17505,7 +17505,7 @@ GameObject:
   - component: {fileID: 2016685913}
   m_Layer: 0
   m_Name: Cube (110)
-  m_TagString: Puerta0
+  m_TagString: Puerta2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

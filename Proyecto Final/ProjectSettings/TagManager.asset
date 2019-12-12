@@ -8,6 +8,7 @@ TagManager:
   - Puerta1
   - Puerta2
   - Puerta3
+  - Puerta4
   layers:
   - Default
   - TransparentFX

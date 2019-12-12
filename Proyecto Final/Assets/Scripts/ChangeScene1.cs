@@ -25,5 +25,9 @@ public class ChangeScene1 : MonoBehaviour
         {
             SceneManager.LoadScene("Hard");
         }
+        else if (other.gameObject.tag == "Puerta4")
+        {
+            SceneManager.LoadScene("Version2");
+        }
     }
 }
